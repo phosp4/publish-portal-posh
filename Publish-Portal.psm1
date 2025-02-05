@@ -1,13 +1,3 @@
-# AUTHOR: Samuel Dobrik
-# VERBOSE MESSAGES BY: chatgpt.com
-# BEFORE USING:
-#   Import-Module ./Publish-Portal.psm1 -Force
-# BEFORE TESTING:
-#   $VerbosePreference = "continue"
-# TESTING:
-#   Publish-Portal -Statistics -Destination "samuel_dobrik@s.ics.upjs.sk:/home/samuel_dobrik/public_html"
-#   Publish-Portal
-
 # constants
 $OUTPUT_FOLDER = "site"
 $WEBSITE_TITLE = "Shellpress"
