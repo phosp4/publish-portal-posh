@@ -1,0 +1,3 @@
+# Hamlet
+Hamlet (angl. The Tragedy of Hamlet, Prince of Denmark, dosl. Tragédia o Hamletovi, princovi dánskom) je nájznámejšou a najčastejšie citovanou divadelnou hrou anglického dramatika Williama Shakespearea. Hamlet patrí medzi najinscenovanejšie hry vo všetkých krajinách západnej kultúry a taktiež patrí medzi najprekladanejšie literárne diela na svete. 
+Okrem iného je považovaný za akúsi skúšku ohňom pre vyspelosť herca. Zrejme najznámejšou scénou z hry je Hamletov monológ o zmysle života z tretieho dejstva, začínajúci otázkou „Byť, a či nebyť?“
